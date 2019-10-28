@@ -1,0 +1,7 @@
+environment: development
+container:
+  name: demo
+  port: 53000
+  image: muhady/myhello
+  tag: hello
+replicas: 1
