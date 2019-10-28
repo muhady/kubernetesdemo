@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: demo
-          image: muhady/myhello:laatest
+          image: muhady/myhello:latest
           ports:
           - containerPort: 53000
